@@ -205,3 +205,5 @@ title('Secant Wave'); % Title for the plot
 xlabel('Time (s)'); % X-axis label
 ylabel('Amplitude'); % Y-axis label
 grid on; % Enable grid
+
+![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135807.png)
