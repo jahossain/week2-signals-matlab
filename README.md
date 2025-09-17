@@ -208,3 +208,4 @@ grid on; % Enable grid
 
 ![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135807.png)
 ![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135848.png)
+![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135911.png)
