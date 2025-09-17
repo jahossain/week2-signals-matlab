@@ -209,3 +209,6 @@ grid on; % Enable grid
 ![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135807.png)
 ![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135848.png)
 ![image](https://github.com/jahossain/week2-signals-matlab/blob/main/Images/Screenshot%202025-09-17%20135911.png)
+
+# description
+The unit impulse is a spike at 𝑡=0t=0, used to test system responses. The unit step switches from 0 to 1 at 𝑡=0t=0, while the unit ramp grows linearly for 𝑡≥0t≥0. The exponential signal either decays or grows exponentially, modeling many natural processes. The signum signal indicates the sign of time (−1, 0, or +1). The sinc signal is an oscillatory, decaying function sin(𝜋𝑡)/(𝜋𝑡)sin(πt)/(πt), important in signal processing and Fourier analysis.
